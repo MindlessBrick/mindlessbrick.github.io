@@ -4,8 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## Introduction to me and the site
-
 Welcome! I am a humble modern day slave from Australia. I studied pure mathematics and actuarial studies from the Australian National University. The purpose of this website is to share my interests and hobbies with others, and most importantly to share my failures in the hopes of redeeming them someday.
 
 ## My Interests
