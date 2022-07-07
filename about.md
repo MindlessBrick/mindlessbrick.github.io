@@ -16,6 +16,7 @@ Welcome! I am a humble modern day slave from Australia. I studied pure mathemati
 ## Other places you can find me
 
 - [Youtube](https://www.youtube.com/channel/UCAbN2ZGetpOwSXGy1yqEsdA)
+- [Project Euler](https://projecteuler.net/profile/Kakattack.png)
 
 ## Inspired by
 
