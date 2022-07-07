@@ -1,6 +1,6 @@
 title: "Project Kaka"
 author: "ZK"
-description: "Pleeeeeeeeeaaaaaaaasssssssseee"
+description: "Documenting my path to redeeming my past failures."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,12 +16,13 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "HEL"}
-  - {file: "README.md", title: "AbOUT"}
-  - {url: "TwoSidedPLL.pdf", title: "PDF"}
+  - {title: "Home", file: "home.md"}
+  - {title: "Index", file: "index.html"}
+  - {title: "About me", file: "README.md"}
+  - {title: "CV", url: "TwoSidedPLL.pdf"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-#   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
