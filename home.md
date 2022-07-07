@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "INDEX.MD"
+title: "home.md"
 ---
 
 This is a test. Lets see if this works.
