@@ -1,67 +1,27 @@
 ---
-title: "About"
+title: "About me"
 permalink: "/about/"
 layout: page
 ---
 
 ## Introduction to me and the site
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Welcome! I am a humble modern day slave from Australia. I studied pure mathematics and actuarial studies from the Australian National University. The purpose of this website is to share my interests and hobbies with others, and most importantly to share my failures in the hopes of redeeming them someday.
 
-## Goals
+## My Interests
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+ - Pure mathematics
+ - Speedcubing
+ - Memory Sports
+ - Combinatorial Games
 
-## Based on
+## Other places you can find me
+
+- [Youtube](https://www.youtube.com/channel/UCAbN2ZGetpOwSXGy1yqEsdA)
+
+## Inspired by
 
 - [Markus Hegland](https://maths.anu.edu.au/people/academics/markus-hegland)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
 
 ## License
 
