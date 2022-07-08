@@ -15,7 +15,7 @@ Here is a list of goals that I have failed in the past.
   - Hold the *Australian National Record* in all 10 memory events.
   - Achieve a *Grandmaster* title.
   - Memorise a deck of cards in under 60 seconds. [See post.](/_posts/2022-07-08-card-memo.md)
-  - Break the *world record* for the images event.
+  - Break the *World Record* for the images event.
 
 ### Hive Project
 
