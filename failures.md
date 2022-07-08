@@ -7,15 +7,15 @@ Here is a list of goals that I have failed in the past.
 
 ### Speedcubing
 
-  - Get the **Oceanic Record** for the Multiple Blindfolded event.
+  - Get the *Oceanic Record* for the Multiple Blindfolded event.
   - Solve a Rubik's cube blindfolded in under 30 seconds (including memorization) 80% of the time.
 
 ### Memory Sports
 
   - Hold the Australian national record in all 10 memory events.
-  - Achieve a **Grandmaster** title.
+  - Achieve a *Grandmaster* title.
   - Memorise a deck of cards in under 60 seconds.
-  - Break the **world record** for the images event.
+  - Break the *world record* for the images event.
 
 ### Hive Project
 
@@ -28,4 +28,3 @@ Here is a list of goals that I have failed in the past.
   - Start a personal website
   - Make at least 10 mathematics posts
   - Make at least 10 programming posts
-  - 
