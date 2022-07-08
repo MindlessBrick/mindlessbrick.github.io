@@ -1,5 +1,5 @@
 ---
-title: "Failures"
+title: "List of Past Failed Goals"
 layout: page
 ---
 
