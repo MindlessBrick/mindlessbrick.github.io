@@ -7,7 +7,7 @@ Here is a list of goals that I have failed in the past.
 
 ### Speedcubing
 
-  - Get the *Oceanic Record* for the Multiple Blindfolded event.
+  - \[Hard] Get the *Oceanic Record* for the Multiple Blindfolded event.
   - Solve a Rubik's cube blindfolded in under 30 seconds (including memorization) 80% of the time.
 
 ### Memory Sports
