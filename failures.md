@@ -12,19 +12,19 @@ Here is a list of goals that I have failed in the past.
 
 ### Memory Sports
 
-  - Hold the Australian national record in all 10 memory events.
+  - Hold the *Australian National Record* in all 10 memory events.
   - Achieve a *Grandmaster* title.
   - Memorise a deck of cards in under 60 seconds. [See post.](/_posts/2022-07-08-card-memo.md)
   - Break the *world record* for the images event.
 
 ### Hive Project
 
-  - \[Hard] Create a working Hive engine
-  - \[Medium] Create a website with documentation for the engine on github
-  - \[Hard] Create an AI for the Hive engine
+  - Create a working Hive engine
+  - Create a website with documentation for the engine on github
+  - Create an AI for the Hive engine
 
 ### Website
 
-  - \[Easy] Start a personal website
-  - \[Easy] Make at least 10 mathematics posts
-  - \[Easy] Make at least 10 programming posts
+  - Start a personal website
+  - Make at least 10 mathematics posts
+  - Make at least 10 programming posts
