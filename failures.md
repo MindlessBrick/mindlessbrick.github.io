@@ -3,7 +3,7 @@ title: "List of Past Failed Goals"
 layout: page
 ---
 
-Here is a list of goals that I have failed in the past.
+Here is a list of goals that I have failed in the past. I almost regret not completing these earlier but now it's time to finish them. Then I can finally move onto better things without feeling like I screwed up. Do any of these goals really matter? No, but the confidence to know that you followed through and took an achievement to completion is what I really want.
 
 ### Speedcubing
 
