@@ -8,6 +8,7 @@ Every now and then I encounter a problem which I cannot solve immediately. I kee
 
 
 1. Sum of two uniform random variables.
+
 $$ X,Y iid Uniform[0,1].$$ Let $$Z=X+Y.$$
 i. $$What is the variance of Z?$$
 3. fefe
