@@ -10,8 +10,10 @@ Every now and then I encounter a problem which I cannot solve immediately. I kee
 1. Sum of two uniform random variables.
 
 $$ X,Y iid Uniform[0,1].$$ Let $$Z=X+Y.$$
-i. $$What is the variance of Z?$$
-3. fefe
+i. What is the variance of Z?
+2. Coin flip game. Person A flips N coins and person B flips M coins. Find $$P(A_heads > B_heads)$$
+3. 
+4. fefe
 $$ 1 + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + .... = \frac{\pi^2}{6} $$
 
 $$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
