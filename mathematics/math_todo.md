@@ -17,3 +17,4 @@ i. What is the variance of Z?
 $$ 1 + \frac{1}{2^2} + \frac{1}{3^2} + \frac{1}{4^2} + .... = \frac{\pi^2}{6} $$
 
 $$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+3. Expected number of roll for the collection log problem where probabilities are unequal.
